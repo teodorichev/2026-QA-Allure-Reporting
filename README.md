@@ -1,0 +1,1 @@
+# 2026-QA-Allure-Reporting
